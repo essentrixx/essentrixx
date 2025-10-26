@@ -7,7 +7,7 @@ Passionate full-stack JavaScript developer focused on building efficient and sca
 ## 🚀 About Me
 
 - 🧑‍💻 **Junior Developer** (less than 1 year experience)
-- 🛠️ **Stack:** Node.js, Python, React, Django
+- 🛠️ **Stack:** Node.js, Python, React, fastapi
 - 🌟 Always learning, always coding
 
 ---
