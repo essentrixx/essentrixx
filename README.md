@@ -28,7 +28,7 @@ Passionate full-stack JavaScript developer focused on building efficient and sca
 ## 💡 Skills
 
 - JavaScript | Node.js | Python
-- React | Django
+- React | TypeScript
 - REST APIs | Socket.io | MongoDB
 - Front-end & Back-end Development
 
